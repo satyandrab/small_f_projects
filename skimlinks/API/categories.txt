@@ -1,0 +1,292 @@
+	<category>
+		<id>1</id>
+		<name>mature &amp; adult</name>
+	</category>
+	<category>
+		<id>2</id>
+		<name>arts, crafts &amp; hobbies</name>
+	</category>
+	<category>
+		<id>3</id>
+		<name>automotive, cars &amp; bikes</name>
+	</category>
+	<category>
+		<id>4</id>
+		<name>baby &amp; parenting supplies</name>
+	</category>
+	<category>
+		<id>5</id>
+		<name>books &amp; magazines</name>
+	</category>
+	<category>
+		<id>6</id>
+		<name>charities &amp; non-profit</name>
+	</category>
+	<category>
+		<id>7</id>
+		<name>computers &amp; software</name>
+	</category>
+	<category>
+		<id>8</id>
+		<name>consumer electronics</name>
+		<children>
+			<category>
+				<id>9</id>
+				<name>audio, tv &amp; home theatre</name>
+			</category>
+			<category>
+				<id>10</id>
+				<name>cameras &amp; photos</name>
+			</category>
+			<category>
+				<id>11</id>
+				<name>gadgets &amp; geeks</name>
+			</category>
+			<category>
+				<id>12</id>
+				<name>mobiles, pdas &amp; satnav</name>
+			</category>
+			<category>
+				<id>13</id>
+				<name>mp3 players &amp; accessories</name>
+			</category>
+		</children>
+	</category>
+	<category>
+		<id>14</id>
+		<name>dating</name>
+	</category>
+	<category>
+		<id>15</id>
+		<name>department stores</name>
+	</category>
+	<category>
+		<id>16</id>
+		<name>eco-friendly, green &amp; ethical</name>
+	</category>
+	<category>
+		<id>17</id>
+		<name>education &amp; careers</name>
+	</category>
+	<category>
+		<id>18</id>
+		<name>fashion &amp; accessories</name>
+		<children>
+			<category>
+				<id>19</id>
+				<name>belts &amp; bags</name>
+			</category>
+			<category>
+				<id>20</id>
+				<name>children's clothing</name>
+			</category>
+			<category>
+				<id>21</id>
+				<name>jewelry</name>
+			</category>
+			<category>
+				<id>22</id>
+				<name>lingerie &amp; sleepwear</name>
+			</category>
+			<category>
+				<id>23</id>
+				<name>men's clothing</name>
+			</category>
+			<category>
+				<id>24</id>
+				<name>shoes</name>
+			</category>
+			<category>
+				<id>25</id>
+				<name>women's clothing</name>
+			</category>
+		</children>
+	</category>
+	<category>
+		<id>26</id>
+		<name>finance, legal &amp; insurance</name>
+	</category>
+	<category>
+		<id>27</id>
+		<name>food, drink &amp; dining</name>
+		<children>
+			<category>
+				<id>28</id>
+				<name>groceries</name>
+			</category>
+			<category>
+				<id>29</id>
+				<name>restaurants &amp; catering</name>
+			</category>
+			<category>
+				<id>30</id>
+				<name>wine &amp; spirits</name>
+			</category>
+		</children>
+	</category>
+	<category>
+		<id>31</id>
+		<name>gambling, poker &amp; casinos</name>
+	</category>
+	<category>
+		<id>32</id>
+		<name>games - pc &amp; video</name>
+	</category>
+	<category>
+		<id>33</id>
+		<name>gifts</name>
+		<children>
+			<category>
+				<id>34</id>
+				<name>chocolate</name>
+			</category>
+			<category>
+				<id>35</id>
+				<name>flowers</name>
+			</category>
+			<category>
+				<id>36</id>
+				<name>novelty</name>
+			</category>
+		</children>
+	</category>
+	<category>
+		<id>37</id>
+		<name>health &amp; beauty</name>
+		<children>
+			<category>
+				<id>38</id>
+				<name>cosmetics</name>
+			</category>
+			<category>
+				<id>39</id>
+				<name>health products</name>
+			</category>
+		</children>
+	</category>
+	<category>
+		<id>40</id>
+		<name>home &amp; garden</name>
+		<children>
+			<category>
+				<id>41</id>
+				<name>bed &amp; bath</name>
+			</category>
+			<category>
+				<id>42</id>
+				<name>diy</name>
+			</category>
+			<category>
+				<id>43</id>
+				<name>furniture &amp; interior design</name>
+			</category>
+			<category>
+				<id>44</id>
+				<name>garden</name>
+			</category>
+			<category>
+				<id>45</id>
+				<name>home appliances</name>
+			</category>
+		</children>
+	</category>
+	<category>
+		<id>46</id>
+		<name>general</name>
+	</category>
+	<category>
+		<id>47</id>
+		<name>music, mp3 &amp; movies </name>
+	</category>
+	<category>
+		<id>48</id>
+		<name>office supplies &amp; stationary</name>
+	</category>
+	<category>
+		<id>49</id>
+		<name>pets &amp; pets supplies</name>
+	</category>
+	<category>
+		<id>50</id>
+		<name>phones, tv &amp; broadband subscriptions</name>
+	</category>
+	<category>
+		<id>51</id>
+		<name>price comparison</name>
+	</category>
+	<category>
+		<id>52</id>
+		<name>sports, fitness &amp; outdoors</name>
+	</category>
+	<category>
+		<id>53</id>
+		<name>tickets &amp; events</name>
+	</category>
+	<category>
+		<id>54</id>
+		<name>toys, games &amp; costumes</name>
+	</category>
+	<category>
+		<id>55</id>
+		<name>travel, flights &amp; hotels</name>
+	</category>
+	<category>
+		<id>56</id>
+		<name>utilities</name>
+	</category>
+	<category>
+		<id>57</id>
+		<name>web, online &amp; it services</name>
+	</category>
+	<category>
+		<id>611</id>
+		<name>Deals, Coupons &amp; Price Comparison</name>
+	</category>
+	<category>
+		<id>612</id>
+		<name>Mens Interest</name>
+	</category>
+	<category>
+		<id>613</id>
+		<name>Technology &amp; Gadgets</name>
+	</category>
+	<category>
+		<id>614</id>
+		<name>Music &amp; Movies</name>
+	</category>
+	<category>
+		<id>615</id>
+		<name>Business &amp; News</name>
+	</category>
+	<category>
+		<id>616</id>
+		<name>Education, Jobs &amp; Careers</name>
+	</category>
+	<category>
+		<id>617</id>
+		<name>Society &amp; Culture</name>
+	</category>
+	<category>
+		<id>618</id>
+		<name>Dating, Life &amp; Relationships</name>
+	</category>
+	<category>
+		<id>619</id>
+		<name>Womens Interest</name>
+	</category>
+	<category>
+		<id>620</id>
+		<name>Babies, Children &amp; Parenting</name>
+	</category>
+	<category>
+		<id>621</id>
+		<name>Entertainment &amp; Celebrity</name>
+	</category>
+	<category>
+		<id>622</id>
+		<name>Pets &amp; Animals</name>
+	</category>
+	<category>
+		<id>623</id>
+		<name>Toys &amp; Games</name>
+	</category>

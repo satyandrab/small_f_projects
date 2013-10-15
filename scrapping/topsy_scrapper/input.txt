@@ -1,0 +1,7 @@
+﻿% Comment - the whole line will be ignored. Empty lines will be ignored too.
+
+% Search query: works well except for the abort bug 
+@srbachchan
+
+% URL works does not work at all 
+http://topsy.com/twitter/SrBachchan?nohidden=1&offset=20&om=aa&page=1

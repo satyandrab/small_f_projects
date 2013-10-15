@@ -1,0 +1,23 @@
+http://www.writersstore.com/courses/
+https://creatorup.com/
+http://www.expertrating.com/courses/courses.asp
+http://thecodeplayer.com/
+https://phpacademy.org/courses
+
+fields to capture
+--Link (to Course Detail Page)
+--Title
+--Description
+--Level
+--Thumbnail Image (URL)
+--Keywords
+--Author
+--Event (if live event, capture data in JSON format)
+--Preview (if video preview such as youtube link is available)
+
+"keywords" = ANY metadata from the pages that can help us in our search algorithm
+[11:56:10 PM] Nick Gidwani: so titles, categories, keywords, etc
+[11:56:24 PM] Nick Gidwani: TOC stands for table of contents
+[11:56:31 PM] Nick Gidwani: and includes content inside the page that is structured in some way
+[11:56:36 PM] Nick Gidwani: authors is an important field
+pricing is an important field too

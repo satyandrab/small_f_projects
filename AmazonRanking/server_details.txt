@@ -1,0 +1,6 @@
+https://108.161.128.47:2087/
+
+user: root
+pass: 1funkydrummert
+
+http://www.dummies.com/how-to/content/how-to-use-ftp-from-terminal-to-transfer-mac-files.html
